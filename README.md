@@ -1,9 +1,16 @@
+CHROME EXTENSION
 
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: SHAIK UMAR FARUQ
 
+INTERN ID: CT08DN1218
 
+DOMAIN: Full-Stack Web Development
 
+DURATION: 8 WEEEKS
 
+MENTOR: NEELA SANTOSH
 
 
 # Chrome-Extension
@@ -21,3 +28,5 @@ To further enhance usefulness, the project also includes the feature of weekly p
 This tool can be very helpful for students, developers, remote workers, and anyone who wants to improve their focus. Unlike traditional time tracking tools that require manual input, WebTimeTracker runs in the background without interrupting the user, ensuring accurate and effortless time logging. Since the extension is lightweight and built using Manifest V3, it is efficient and secure, aligning with the latest Chrome extension development standards.
 
 In conclusion, WebTimeTracker is a complete, full-stack solution for personal productivity analysis. It combines browser automation, real-time time tracking, backend storage, and insightful data visualization in a simple and accessible format. The project showcases the power of browser extensions in improving digital well-being and highlights how a combination of front-end, back-end, and database technologies can be used to build real-world productivity tools.
+
+#OUTPUT 
