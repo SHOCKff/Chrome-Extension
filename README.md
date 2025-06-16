@@ -30,3 +30,4 @@ This tool can be very helpful for students, developers, remote workers, and anyo
 In conclusion, WebTimeTracker is a complete, full-stack solution for personal productivity analysis. It combines browser automation, real-time time tracking, backend storage, and insightful data visualization in a simple and accessible format. The project showcases the power of browser extensions in improving digital well-being and highlights how a combination of front-end, back-end, and database technologies can be used to build real-world productivity tools.
 
 #OUTPUT 
+![Image](https://github.com/user-attachments/assets/d3ff5e97-29d7-4820-bd98-0c323f1232a5)
